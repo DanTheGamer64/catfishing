@@ -1,0 +1,20 @@
+.catfish{
+    width:1500;
+    height: 500px;
+}
+.catfish h1{
+    text-align: center;
+}
+.catfish h2{
+    text-align: center;
+}
+.catfish p{
+    text-align: center;
+}
+.catfish img{
+    margin-left:440px;
+}
+.catfish #d{
+    text-align: center;
+    font-size:10px;
+}
